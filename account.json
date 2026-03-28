@@ -1,8 +1,7 @@
 {
   "version": 1,
   "source": {
-    "type": "ocr_from_screenshot",
-    "image": "C:/Users/ksjz1/OneDrive/??/2026-03-28 14 02 09.png",
+    "type": "ocr_from_screenshot"
     "updated_at": "2026-03-28"
   },
   "fields": [
